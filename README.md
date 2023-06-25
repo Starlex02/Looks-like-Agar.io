@@ -1,6 +1,6 @@
+<h1 align="center">Node Agar.io</h1>
 
-
-#Project setup
+## Project setup
 ```
 npm install
 npm run server
