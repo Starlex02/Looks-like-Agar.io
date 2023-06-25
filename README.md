@@ -1,1 +1,1 @@
-<h1 alight="center">Node Agar.io</h1>
+<h1 align="center">Node Agar.io</h1>
